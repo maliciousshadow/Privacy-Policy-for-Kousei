@@ -1,6 +1,5 @@
 # Privacy-Policy-for-Kousei
 
-Privacy-Policy-for-Kousei
 Controller The controller responsible for data processing is: LairOfDarkness lair.of.darkness.official@gmail.com
 
 Data We Collect and Process
